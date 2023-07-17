@@ -22,7 +22,7 @@
     "url": "https://app.perf.databahn.app",
     "icon": "https://icons.duckduckgo.com/ip3/app.perf.databahn.app.ico",
     "slug": "databahn-perf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-17": 0
+    }
   },
   {
     "name": "Databahn demo",

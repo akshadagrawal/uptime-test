@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.perf.databahn.app.ico",
     "slug": "databahn-perf",
     "status": "up",
-    "uptime": "45.76%",
+    "uptime": "46.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.06%",
-    "uptimeMonth": "18.13%",
-    "uptimeYear": "45.76%",
+    "uptimeWeek": "91.08%",
+    "uptimeMonth": "19.05%",
+    "uptimeYear": "46.05%",
     "time": 925,
     "timeDay": 384,
     "timeWeek": 2137,
@@ -73,7 +73,7 @@
     "url": "https://app.demo.databahn.app",
     "icon": "https://icons.duckduckgo.com/ip3/app.demo.databahn.app.ico",
     "slug": "databahn-demo-new",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,9 @@
     "timeWeek": 456,
     "timeMonth": 406,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-02": 0
+    }
   },
   {
     "name": "Databahn Demo Old",

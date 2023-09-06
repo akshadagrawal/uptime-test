@@ -1,7 +1,7 @@
 url: https://app.perf.databahn.app
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2023-09-05T23:10:58.875Z
+status: down
+code: 404
+responseTime: 128
+lastUpdated: 2023-09-06T08:21:18.400Z
 startTime: 2023-07-13T08:15:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>

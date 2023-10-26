@@ -7,10 +7,6 @@ sites:
     url: https://app.dev.databahn.app
   - name: Databahn Perf
     url: https://app.perf.databahn.app
-  - name: Databahn Demo New
-    url: https://app.demo.databahn.app
-  - name: Databahn Demo Old
-    url: https://portal.demo.databahn.in
   - name: Databahn poc
     url: https://app.poc.databahn.app
   - name: Databahn cboe fyi

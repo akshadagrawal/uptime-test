@@ -13,6 +13,8 @@ sites:
     url: https://portal.demo.databahn.in
   - name: Databahn poc
     url: https://app.poc.databahn.app
+  - name: Databahn cboe fyi
+    url: https://app.cboe.databahn.fyi
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

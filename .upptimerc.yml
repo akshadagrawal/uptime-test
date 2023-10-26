@@ -11,6 +11,8 @@ sites:
     url: https://app.demo.databahn.app
   - name: Databahn Demo Old
     url: https://portal.demo.databahn.in
+  - name: Databahn poc
+    url: https://app.poc.databahn.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
